@@ -1,0 +1,8 @@
+.Big-container{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+.rightLogin{
+    width: 800px !important;
+}
